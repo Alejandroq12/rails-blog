@@ -41,7 +41,7 @@ The Rails Blog is a full-stack web application created with Ruby on Rails. My go
 
   <ul>
     <li><a href="https://rubyonrails.org/">Ruby on Rails 7.1.2</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.sqlite.org/index.html">SQLite</a></li>
   </ul>
 
 ### Key Features <a name="key-features"></a>
@@ -85,14 +85,6 @@ npm install
 ```
 
 ### Database
-
-Important: please, rename .env.example to .env and fill out all necessary fields otherwise you will be able to connect to the database.
-
-Before running the migrations and seeds, ensure that PostgreSQL is installed and running:
-
-```sh
-sudo service postgresql start
-```
 
 Run migrations:
 
