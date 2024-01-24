@@ -1,7 +1,11 @@
 <h1>My blog</h1>
 <% @blog_posts.each do |post| %>
   <div>
+    <!--
+    These are three difererent ways to set the links to the same route
     <h2><%= link_to post.title, blog_post_path(post) %></h2>
+    <h2><%= link_to post.title, blog_post_path(post.id) %></h2> --> 
+    <h2><%= link_to post.title, post %></h2>
     <p><%= post.body %></p>
   </div>
 <% end %>
