@@ -1,4 +1,4 @@
-# juliodev-blog
+# rails-blog
 
 <a name="readme-top"></a>
 <div align="center">
@@ -8,9 +8,9 @@
 </div>
 # 📗 Table of Contents
 
-- [juliodev-blog](#juliodev-blog)
+- [rails-blog](#rails-blog)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 JulioDev Blog ](#-juliodev-blog-)
+- [📖 Rails Blog ](#-rails-blog-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -31,7 +31,7 @@
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-# 📖 JulioDev Blog <a name="about-project"></a>
+# 📖 Rails Blog <a name="about-project"></a>
 
 The Rails Blog is a full-stack web application created with Ruby on Rails. My goal is to create a blog to practice and master Ruby but at the same time to be a usable and working app.
 
@@ -41,7 +41,7 @@ The Rails Blog is a full-stack web application created with Ruby on Rails. My go
 
   <ul>
     <li><a href="https://rubyonrails.org/">Ruby on Rails 7.1.2</a></li>
-    <li><a href="https://www.sqlite.org/index.html">SQLite</a></li>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 
 ### Key Features <a name="key-features"></a>
